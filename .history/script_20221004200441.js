@@ -6,9 +6,8 @@ function returnText() {
 
     if (start == end) {
         output.innerHTML = "Same"
-        output.style.color = "#69b00b";
+        output.style.color = "green"
     } else {
         output.innerHTML = "Not The Same!"
-        output.style.color = "#b00b"
     }
 }
