@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Raleway:wght@200&display=swap');
+
+:root {
+    --prim-font: 'Montserrat', sans-serif;
+    --sec-font: 'Raleway', sans-serif;
+    --primClr: #1d6862;
+    --secClr: #00a972;
+    --thrdClr: #715f58;
+}
+
+h1 {
+    font-size: large;
+    text-align: center;
+}

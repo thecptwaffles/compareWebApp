@@ -6,7 +6,6 @@
     --primClr: #1d6862;
     --secClr: #00a972;
     --thrdClr: #715f58;
-    background-image: linear-gradient(90deg, var(--primClr), var(--secClr));
 }
 
 h1 {
@@ -27,11 +26,6 @@ input {
     box-shadow: 4px 22px 21px 9px rgba(176, 11, 105, 0.54);
     -webkit-box-shadow: 4px 22px 21px 9px rgba(176, 11, 105, 0.54);
     -moz-box-shadow: 4px 22px 21px 9px rgba(176, 11, 105, 0.54);
-    border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
 }
 
 .inputs {
@@ -43,9 +37,4 @@ input {
 
 button {
     font-size: 1.5rem;
-    border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
 }

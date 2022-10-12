@@ -10,6 +10,6 @@ function returnText() {
     } else {
         output.innerHTML = "Not The Same!"
         output.style.color = "#b00b"
-        output.style.textDecoration = "underline"
+        output.style.textDecoration = "bold"
     }
 }
